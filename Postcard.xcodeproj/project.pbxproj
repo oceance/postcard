@@ -13,6 +13,8 @@
 		414EBA5F1B15ED3D009658E4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 414EBA5E1B15ED3D009658E4 /* Images.xcassets */; };
 		414EBA621B15ED3D009658E4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 414EBA601B15ED3D009658E4 /* LaunchScreen.xib */; };
 		414EBA6E1B15ED3D009658E4 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 414EBA6D1B15ED3D009658E4 /* PostcardTests.swift */; };
+		414EBA781B16279E009658E4 /* 291003_283378.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 414EBA771B16279E009658E4 /* 291003_283378.jpg */; };
+		414EBA7A1B166C78009658E4 /* Christmas-Gifs_02.gif in Resources */ = {isa = PBXBuildFile; fileRef = 414EBA791B166C78009658E4 /* Christmas-Gifs_02.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		414EBA671B15ED3D009658E4 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		414EBA6C1B15ED3D009658E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		414EBA6D1B15ED3D009658E4 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		414EBA771B16279E009658E4 /* 291003_283378.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 291003_283378.jpg; sourceTree = "<group>"; };
+		414EBA791B166C78009658E4 /* Christmas-Gifs_02.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Christmas-Gifs_02.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		414EBA551B15ED3D009658E4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				414EBA791B166C78009658E4 /* Christmas-Gifs_02.gif */,
+				414EBA771B16279E009658E4 /* 291003_283378.jpg */,
 				414EBA561B15ED3D009658E4 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,8 +199,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				414EBA5D1B15ED3D009658E4 /* Main.storyboard in Resources */,
+				414EBA781B16279E009658E4 /* 291003_283378.jpg in Resources */,
 				414EBA621B15ED3D009658E4 /* LaunchScreen.xib in Resources */,
 				414EBA5F1B15ED3D009658E4 /* Images.xcassets in Resources */,
+				414EBA7A1B166C78009658E4 /* Christmas-Gifs_02.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
